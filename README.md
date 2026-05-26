@@ -1,6 +1,6 @@
 # 🛡️ Operação Banco Blindado
 
-> Projeto prático de infraestrutura, segurança e continuidade de negócio em banco de dados relacional.
+> Projeto prático de Administração de Banco de Dados-ABD.
 
 **Universidade de Luanda — Instituto de Tecnologias de Informação e Comunicação**
 
@@ -128,7 +128,11 @@ EXPLAIN SELECT * FROM clientes WHERE email = 'ana@email.com';
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-**Kapilson**
-Universidade de Luanda — ITIC
+**Teresa Guilherme**
+**Vladimir Cambolo** E
+**Evaristo Davoca**
+**Luciano Macedo**
+**Ismael Bengui**
+Universidade de Luanda — INSTIC
