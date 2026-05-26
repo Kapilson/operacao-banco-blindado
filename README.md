@@ -130,9 +130,9 @@ EXPLAIN SELECT * FROM clientes WHERE email = 'ana@email.com';
 
 ## 👤 Autores
 
-**Teresa Guilherme,**
-**Vladimir Cambolo,**
-**Evaristo Davoca,**
-**Luciano Macedo,** e
-**Ismael Bengui**
-Universidade de Luanda — INSTIC
+##**Teresa Guilherme**
+##**Vladimir Cambolo**
+##**Evaristo Davoca**
+##**Luciano Macedo**
+##**Ismael Bengui**
+##Universidade de Luanda — INSTIC
